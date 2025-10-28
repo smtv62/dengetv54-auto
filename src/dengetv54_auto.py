@@ -429,7 +429,7 @@ class AutoDiscovery:
                 logging.info("✅ Bulundu ve cache'lendi: %s", valid)
                 return valid
 
-        default = "https://kodiaq.zirvedesin24.sbs/"
+        default = "https://yildiz.zirvedesin25.sbs/"
         cache.update({"base_stream_url": default, "base_ts": now_ts, "candidates": candidates})
         _save_cache(cache)
         logging.warning("Hiçbiri çalışmadı, varsayılan kullanılıyor: %s", default)
