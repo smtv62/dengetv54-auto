@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Cache & output
+cache.json
+output/
+dengetv_auto.log
+
+# Playwright temp
+playwright/.cache/
