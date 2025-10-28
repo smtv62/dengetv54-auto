@@ -9,19 +9,19 @@ https://dengetv67.live/channel?id=yayinzirve.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayin 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
-https://kodiaq.zirvedesin24.sbs/yayin1.m3u8
+https://dengetv67.live/channel?id=yayin1.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayininat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
-https://kodiaq.zirvedesin24.sbs/yayininat.m3u8
+https://dengetv67.live/channel?id=yayininat.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayinb 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
-https://kodiaq.zirvedesin24.sbs/yayinb2.m3u8
+https://dengetv67.live/channel?id=yayinb2.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayinb 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
-https://kodiaq.zirvedesin24.sbs/yayinb3.m3u8
+https://dengetv67.live/channel?id=yayinb3.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayinb 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
@@ -280,3 +280,4 @@ http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 # --- Xplatin M3U Sonu ---
+
