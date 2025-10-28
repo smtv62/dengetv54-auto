@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Dengetv54",Yayinzirve
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
-https://kodiaq.zirvedesin24.sbs/yayinzirve.m3u8
+https://dengetv67.live/channel?id=yayinzirve.m3u8
 #EXTINF:-1 group-title="Dengetv54",Yayin 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://dengetv67.live/
@@ -277,5 +277,6 @@ http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:0,Çocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:0,Çizgi Film TV
+
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 # --- Xplatin M3U Sonu ---
